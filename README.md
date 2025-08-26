@@ -4,7 +4,7 @@ A lightweight Flask-based web application that lets you upload a video (supporte
 
 ---
 
-## 📸 Snap shots 
+##  Snap shots 
 
 ### 🔹 Tool Interface
 ![AI Video Summarization Tool](AI_Video_Summarization_Tool.png)
@@ -40,6 +40,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
 
 
 
